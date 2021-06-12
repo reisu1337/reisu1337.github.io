@@ -10,9 +10,6 @@ body {
     background: rgb(5,5,65);
     background: radial-gradient(circle, rgba(5,5,65,1) 11%, rgba(46,48,187,1) 96%);
     font-family: 'Noto Sans', sans-serif;
-    display:flex;
-    align-items:center;
-    justify-content:center;
     min-height:100vh;
     margin:0;
   }
