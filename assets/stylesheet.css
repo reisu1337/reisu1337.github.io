@@ -49,9 +49,8 @@ header
 
 .welcome
 {
-    margin: auto;
-    height: 50%;
-    padding: 10px;
+    display: flex;
+    align-items: center;
 }
 
 h1
