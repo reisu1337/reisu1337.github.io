@@ -7,7 +7,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url(/assets/ilya-pavlov-OqtafYT5kTw-unsplash.jpg);
+    background-image: url(https://github.com/reisu1337/reisu1337.github.io/blob/b662bf89ce5be8a8f502c86065cff073a854c900/assets/ilya-pavlov-OqtafYT5kTw-unsplash.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
