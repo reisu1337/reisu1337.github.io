@@ -32,3 +32,10 @@ nav{
     padding: 8px 12px;
     position: relative;
 }
+
+.nav-links ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
