@@ -2,6 +2,7 @@
 {
     margin: 0;
     padding: 0;
+    font-family: "Roboto", sans-serif;
 }
 
 .header{
@@ -36,6 +37,14 @@ nav{
 .nav-links ul li a{
     color: white;
     text-decoration: none;
-    font-family: "Roboto", sans-serif;
     font-size: 15px;
+}
+
+.nav-links ul li::after{
+    content: "";
+    width: 100%;
+    height: 2px;
+    background: #f44336;
+    display: block;
+    margin: auto;
 }
