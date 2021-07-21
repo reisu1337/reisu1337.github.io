@@ -1,5 +1,2 @@
-# reisu1337.github.io
+# reisu1337.tech
 Me website innit
-textbooks for textbooks
-twitch for twitch
-simples
